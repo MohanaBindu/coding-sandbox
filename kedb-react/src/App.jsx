@@ -14,9 +14,12 @@ function App() {
     }, []);
 
     return (
-    <div>
-      <h1>KEDB Dashboard</h1>
-    </div>
+    <>
+      <div>
+        <h1>KEDB Dashboard</h1>
+      </div>
+      <h2>Search KEDB</h2>
+    </>
     );
 }
 
